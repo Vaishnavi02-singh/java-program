@@ -2,7 +2,7 @@
 
 package Raj;  //User defined package
 
-class day5
+public class day5
 {
 private int x;
 private int y;
