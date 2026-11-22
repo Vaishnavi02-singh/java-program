@@ -1,3 +1,5 @@
+// Using static void method.
+
 class doo
 {
     private static int a;  //private static member variable cannot accessable other class so we create a static method.

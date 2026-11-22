@@ -8,8 +8,7 @@ System.out.println("hello");
 }
 }
 
-
-class day6
+ class day6
 {
 public static void main(String args[])
 {
