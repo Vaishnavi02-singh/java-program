@@ -16,7 +16,6 @@ class currentac extends abs
 {
 void roi(int x)
 {
-//System.out.println("your current account roi created");
 System.out.println(x);
 
 }
